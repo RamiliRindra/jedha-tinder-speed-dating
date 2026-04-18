@@ -59,4 +59,4 @@ Détails, graphiques et interprétations complètes dans `tinder.ipynb`.
 
 ## Auteur
 
-Ramili Rindra — Jedha Data Science, 2026.
+Rindra Ramili— Jedha - DSFS, 2026.
